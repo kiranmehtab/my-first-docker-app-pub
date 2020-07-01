@@ -1,7 +1,7 @@
 # my-first-docker-app
 
 To containerize this app, follow these steps
-Make sure you are in my-first-docker-app folder on your system
+Make sure you are in my-first-docker-app-pub folder on your system
 
 docker build -t first-docker-app .
 
